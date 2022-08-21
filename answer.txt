@@ -1,0 +1,12 @@
+a.
+
+lazy loading delays the initialization of a resource
+
+eager loading initializes or loads a resource as soon as the code is executed.
+When relations are not too much and eager loading will be good to reduce further queries on server.
+
+b.
+
+ORM is a technique that lets us query and manipulates data from a database using an object-oriented paradigm. 
+It encapsulates the code needed to communicate with the database, so we don't use SQL anymore; 
+we interact directly with an object in the same language we are using.
